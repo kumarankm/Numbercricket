@@ -135,7 +135,7 @@ function finalWin(){
         else{
             
             // Checking computer is greater or not
-            if(coscore > plscroe){
+            if(coscore > plscore){
                
                 document.getElementById("Modalc").click();
             }
