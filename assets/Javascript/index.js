@@ -145,7 +145,7 @@ function finalWin(){
                 alert("Match Tie!");
 
                 //Refreshing the page again
-                location.replace('game.html');
+                location.replace('index.html');
             }
         }
     }
